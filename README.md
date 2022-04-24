@@ -1,23 +1,38 @@
-# Next.js + Tailwind CSS Example
+# React IV - Front End Deployment
+- Built a simple Next.js website that "mirrors" my CodeFellows resume. It's not the prettiest but the goal was succesfully deploy a Next.js app to Vercel!
+- Deployed Link: [https://about-me-next.vercel.app/](https://about-me-next.vercel.app/)
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+***
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+# Feature Tasks and Requirements
+- Deploy your Next.js app.
+- An app you build fresh just for this lab.
+- The app you built for previous lab.
+- Convert one of your “vanilla” React app’s to Next.js
+- Really, anything.
+- As long as you created it with Next.js
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+# Feature 1: Create a simple front end
 
-## How to use
+- Time Estimated: 3 hours
+- Start Time: 11:00am
+- End Time: 1:00pm
+- Actual Time Need: 2 hours
+- Comment: This took way less time than anticpated. Tailwind CSS really helped with time efficiency.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+# Feature 2: Deploy to Vercel
+- Time Estimated: 1 hour
+- Start Time: 4:00pm
+- End Time: 4:45pm
+- Actual Time Need: 2 hours
+- Comment: This was almost too easy!
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
-```
+# Future Tasks:
+- Hook up Next.js app with my Django Rest Framework API (deployed to AWS)
+# Resources
+- [TailwindCSS](https://tailwindcss.com/)
+- [Next.js Docs](https://nextjs.org/docs/getting-started)
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+# Preview
+![Preview of Webpage](/public/about_me_preview.JPG)
